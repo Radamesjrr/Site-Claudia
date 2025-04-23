@@ -37,8 +37,24 @@ header {
     bottom: 40px;
 }
 
+.cabeçalho:hover {
+    opacity: 0.8
+}
+
+.cabeçalho:active {
+    opacity: 0.5;
+}
+
 .cab1 {
     margin-left: 2%;
+}
+
+.cab1:hover {
+    opacity: 0.8
+}
+
+.cab1:active {
+    opacity: 0.5;
 }
 
 .contact {
@@ -55,6 +71,14 @@ header {
     cursor: pointer;
     position: relative;
     bottom: 40px;
+}
+
+.contact:hover {
+    opacity: 0.8
+}
+
+.contact:active {
+    opacity: 0.5;
 }
 
 footer {
@@ -105,4 +129,3 @@ footer {
     top: 25px;
     left: 520px;
 }
-
