@@ -13,6 +13,7 @@ header {
     height: 125px;
 }
 
+
 .img-logo {
     width: 150px;
     position: relative;
@@ -88,6 +89,7 @@ footer {
 .section-01 {
     display: flex;
     background-color: #EBEBEB;
+    border: solid rgba(225, 225, 225, 0.5);
 }
 
 .div-sobre {
@@ -128,4 +130,17 @@ footer {
     position: relative;
     top: 25px;
     left: 520px;
+}
+
+.section-02 {
+    background-color: #d8d8d7;
+    height: 550px;
+}
+
+footer {
+    height: 70px;
+    background-color: #6B5E54;
+    position: relative;
+    padding-top: 20px;
+    color: rgb(224, 213, 210);
 }
